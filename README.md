@@ -7,7 +7,10 @@ FNAF 9 / Five Nights at Freddy's Security Breach / FNAF SB
 ![image](https://github.com/user-attachments/assets/e3fb852d-d6a9-48e8-a866-8885393972cb)
 
 
-
+‼️DISCLAIMER:
+**IGNORE** what the in-game Video Settings say! It's going to say "2560x1440" blah blah..
+The menu environment will look lower res, but the text should be crisp. Go in-game and you'll see that it worked!  
+(the game resolution is based off **what your current desktop resolution** is set to!!) 
 
 ## Requirements:
 - Run your FNAF Security Breach (fnaf9.exe) at least once
